@@ -45,6 +45,9 @@ body {
 	color: #000000;
 }
 /*****Extra small devices****/
+#main-content {
+    color: #000000;
+}
 #main-content .col-xs-12 {
     width: 80%;
     margin-right: 10%;
