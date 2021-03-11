@@ -51,6 +51,9 @@ body {
     margin-left: 10%;
 }
 /*****Drop down menu stalyng on visible-xs*****/
+.navbar-default .navbar-collapse {
+	border-color: #000000;
+}
 .navbar-nav {
 	margin: 0px -15px;
 	background-color: #ffffff;
@@ -64,7 +67,7 @@ body {
 }
 #nav-list a {
     font-size: 1.5em;
-    border: 2px solid #000000;
+    border-top: 2px solid #000000;
 }
 #nav-list a:hover {
     background: #E7E7E7;
